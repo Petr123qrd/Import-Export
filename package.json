@@ -1,0 +1,23 @@
+{
+  "name": "import-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "serve": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Petr123qrd/Import-Export.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Petr123qrd/Import-Export/issues"
+  },
+  "homepage": "https://github.com/Petr123qrd/Import-Export#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
